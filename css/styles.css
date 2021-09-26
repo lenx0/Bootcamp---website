@@ -1,0 +1,48 @@
+* { /*reseta qualquer parâmetro de margem do navegador*/
+    margin: 0;
+}
+nav {
+    width: 100%;
+    height: 75px;
+    background-color: ff8400;
+    /*
+    unidade de medida
+    
+    fixas:
+    px
+
+    relativas: (responsividade, o site se ajusta em diferentes tamanhos de tela)
+    %
+    vh viewport height
+    vw viewport width
+    rem
+    em
+    */
+}
+
+header{
+    height: 300px;
+    width: 100%;
+    background-color:red;
+
+}
+
+main{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+      
+}
+
+#serviços {
+    width: 50%;
+    height: 150px;
+    background-color: white;
+
+}
+
+footer{
+    width: 100%;
+    height: 75px;
+    background-color: ff8400;
+}
